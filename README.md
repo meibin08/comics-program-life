@@ -6,6 +6,9 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/3">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/102736358-b1555800-437f-11eb-8a01-e6a554f50478.png" alt="人到中年一地鸡毛"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/1">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/102308252-37008e80-3fa1-11eb-9c9f-2e95f48dd4e6.png" alt="前端发展史的江湖恩怨情仇"/>
 </a>

@@ -16,3 +16,11 @@
 <a href="https://github.com/meibin08/comics-program-life/issues/2">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/102308426-8d6dcd00-3fa1-11eb-9757-be03ea5fbfa5.png" alt="微信诞生记"/>
 </a>
+
+### 其他
+<br/>
+> 如果上面的`github`图片加载不出来，可直接点下方链接
+
++ [漫画 | 人到中年，一地鸡毛](https://mp.weixin.qq.com/s/bRwhMDf784K_9AaxF1rzqQ)
++ [漫画 | 揭密微信诞生记之民间传说](https://mp.weixin.qq.com/s/sbsGwwc2DH1C-h66c2LAFw)
++ [漫画 | 前端发展史的江湖恩怨情仇](https://mp.weixin.qq.com/s/eU5Mvf0GROOK7yTGlW2r4A)

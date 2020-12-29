@@ -6,6 +6,9 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/4">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/103251615-5ab9d080-49b4-11eb-92e5-b9437f61a8cc.png" alt="小公司卧薪尝胆三年，意外拿到美团offer"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/3">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/102736358-b1555800-437f-11eb-8a01-e6a554f50478.png" alt="人到中年一地鸡毛"/>
 </a>

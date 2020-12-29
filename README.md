@@ -22,7 +22,7 @@
 
 ### 其他
 <br/>
-> 如果上面的`github`图片加载不出来，可直接点下方链接
+如果上面的`github`图片加载不出来，可直接点下方链接
 
 + [漫画 | 人到中年，一地鸡毛](https://mp.weixin.qq.com/s/bRwhMDf784K_9AaxF1rzqQ)
 + [漫画 | 揭密微信诞生记之民间传说](https://mp.weixin.qq.com/s/sbsGwwc2DH1C-h66c2LAFw)

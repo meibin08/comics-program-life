@@ -24,7 +24,8 @@
 
 ### 其他
 <br/>
-如果上面的`github`图片加载不出来，可直接点下方链接
+如果上面的`github`图片加载不出来，可直接点下方链接：
+
 + [漫画 | 夜深了，程序员的电脑却没关……](https://mp.weixin.qq.com/s/EfrgVhvTlVA1cEIvl4bT4Q)
 + [漫画 | 小公司卧薪尝胆三年，意外拿到美团offer](https://mp.weixin.qq.com/s/RCpX-rlkvWPEdsOvae9ylw)
 + [漫画 | 人到中年，一地鸡毛](https://mp.weixin.qq.com/s/bRwhMDf784K_9AaxF1rzqQ)

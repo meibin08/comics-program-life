@@ -6,6 +6,9 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/7">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/104918668-0bbdf480-59d0-11eb-8695-ea671a64eafc.png" alt="漫画 | 遇上个傻X领导是什么体验？"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/6">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/104252944-4692ca80-54ae-11eb-97fd-34ee196fcfc0.png" alt="漫画 | 如何向外行解释产品经理频繁更改需求会令程序员很烦恼"/>
 </a>
@@ -30,6 +33,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 遇上个傻X领导是什么体验？](https://mp.weixin.qq.com/s/um1mYo3k0i8OAtdnTr_a7w)
 + [漫画 | 如何向外行解释产品经理频繁更改需求会令程序员很烦恼？](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)
 + [漫画 | 夜深了，程序员的电脑却没关……](https://mp.weixin.qq.com/s/EfrgVhvTlVA1cEIvl4bT4Q)
 + [漫画 | 小公司卧薪尝胆三年，意外拿到美团offer](https://mp.weixin.qq.com/s/RCpX-rlkvWPEdsOvae9ylw)

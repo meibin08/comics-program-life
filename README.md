@@ -34,7 +34,7 @@
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
 + [漫画 | 遇上个傻X领导是什么体验？](https://mp.weixin.qq.com/s/um1mYo3k0i8OAtdnTr_a7w)
-+ [漫画 | 产品经理频繁更改需求，我没忍住把他给砍了](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)
++ [漫画 | 产品经理频繁更改需求，我没忍住把他给砍了！](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)
 + [漫画 | 夜深了，程序员的电脑却没关……](https://mp.weixin.qq.com/s/EfrgVhvTlVA1cEIvl4bT4Q)
 + [漫画 | 小公司卧薪尝胆三年，意外拿到美团offer](https://mp.weixin.qq.com/s/RCpX-rlkvWPEdsOvae9ylw)
 + [漫画 | 人到中年，一地鸡毛](https://mp.weixin.qq.com/s/bRwhMDf784K_9AaxF1rzqQ)

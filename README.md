@@ -5,7 +5,9 @@
 + 用漫画解读职场风云，执笔演绎程序人生，愿吾手中之笔，能博君(卿)一笑～
 
 ### 往期漫画
-
+<a href="https://github.com/meibin08/comics-program-life/issues/8">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/106072980-33395d80-6144-11eb-8458-e69e4fd674c6.png" alt="漫画 | 尴尬，我把面试官整崩溃了～"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/7">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/104918668-0bbdf480-59d0-11eb-8695-ea671a64eafc.png" alt="漫画 | 遇上个傻X领导是什么体验？"/>
 </a>
@@ -33,6 +35,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 尴尬，我把面试官整崩溃了～](https://mp.weixin.qq.com/s/VMOKeB1vLVMW6scrJBU2iA)
 + [漫画 | 遇上个傻X领导是什么体验？](https://mp.weixin.qq.com/s/um1mYo3k0i8OAtdnTr_a7w)
 + [漫画 | 产品经理频繁更改需求，我没忍住把他给砍了！](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)
 + [漫画 | 夜深了，程序员的电脑却没关……](https://mp.weixin.qq.com/s/EfrgVhvTlVA1cEIvl4bT4Q)

@@ -5,6 +5,10 @@
 + 用漫画解读职场风云，执笔演绎程序人生，愿吾手中之笔，能博君(卿)一笑～
 
 ### 往期漫画
+
+<a href="https://github.com/meibin08/comics-program-life/issues/9">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/106534473-1a0f2300-652f-11eb-864c-9b844858e719.png" alt="漫画 | 阿姨，我不想努力了～～"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/8">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/106072980-33395d80-6144-11eb-8458-e69e4fd674c6.png" alt="漫画 | 尴尬，我把面试官整崩溃了～"/>
 </a>

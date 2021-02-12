@@ -7,6 +7,9 @@
 ### 往期漫画
 
 <a href="https://github.com/meibin08/comics-program-life/issues/9">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/107744335-781ce100-6d4d-11eb-8e21-570af96d76f2.png" alt="漫画 | 北上广的年轻人，为什么不敢回家过年？～"/>
+</a>
+<a href="https://github.com/meibin08/comics-program-life/issues/9">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/106534473-1a0f2300-652f-11eb-864c-9b844858e719.png" alt="漫画 | 阿姨，我不想努力了～～"/>
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/8">

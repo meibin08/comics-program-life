@@ -6,7 +6,10 @@
 
 ### 往期漫画
 
-<a href="https://github.com/meibin08/comics-program-life/issues/9">
+<a href="https://github.com/meibin08/comics-program-life/issues/11">
+  <img width="518" src="https://user-images.githubusercontent.com/18324563/108785836-3261e300-75ad-11eb-80c3-08d4ded64236.png" alt="漫画 | 互联网人吐槽大会系列漫画 要来啦～"/>
+</a>
+<a href="https://github.com/meibin08/comics-program-life/issues/10">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/107744335-781ce100-6d4d-11eb-8e21-570af96d76f2.png" alt="漫画 | 北上广的年轻人，为什么不敢回家过年？～"/>
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/9">
@@ -42,6 +45,8 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 互联网人吐槽大会系列漫画 要来啦～](https://mp.weixin.qq.com/s/vzM5S-Zs3UDgcWUN7PhoDA)
++ [漫画 | 北上广深打工人月薪五万回老家的“注意事项”](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 尴尬，我把面试官整崩溃了～](https://mp.weixin.qq.com/s/VMOKeB1vLVMW6scrJBU2iA)
 + [漫画 | 遇上个傻X领导是什么体验？](https://mp.weixin.qq.com/s/um1mYo3k0i8OAtdnTr_a7w)
 + [漫画 | 产品经理频繁更改需求，我没忍住把他给砍了！](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)

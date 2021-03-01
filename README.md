@@ -5,20 +5,14 @@
 + 用漫画解读职场风云，执笔演绎程序人生，愿吾手中之笔，能博君(卿)一笑～
 
 ### 往期漫画
-![半夜，我差点揍了十年前的自己]()
 
-> 原文首发于：
-
-<p style="text-align:center">
-<img src="https://user-images.githubusercontent.com/18324563/109438717-1e632900-7a66-11eb-880b-d03e32af6423.png" width="388" height="188"  alt="漫画 | 半夜加班回家，差点凑了出租车司机" />
-</p>
-<p style="text-align:center">
-<img src="https://user-images.githubusercontent.com/18324563/102307035-9f9a3c00-3f9e-11eb-910a-839365de42c9.png" width="388" height="188"  alt="用漫画解读前端技术，执笔演绎程序人生，愿吾手中笔，能博君(卿)一笑" />
-</p>
-
+<a href="https://github.com/meibin08/comics-program-life/issues/12">
+  <img src="https://user-images.githubusercontent.com/18324563/109438717-1e632900-7a66-11eb-880b-d03e32af6423.png" width="518"  alt="漫画 | 半夜加班回家，差点凑了出租车司机" />
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/11">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/108785836-3261e300-75ad-11eb-80c3-08d4ded64236.png" alt="漫画 | 互联网人吐槽大会系列漫画 要来啦～"/>
 </a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/10">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/107744335-781ce100-6d4d-11eb-8e21-570af96d76f2.png" alt="漫画 | 北上广的年轻人，为什么不敢回家过年？～"/>
 </a>

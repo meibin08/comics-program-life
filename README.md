@@ -49,7 +49,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
-+ [漫画 | 半夜加班回家，差点凑了出租车司机！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
++ [漫画 | 半夜加班回家，差点凑了干出租车司机的自己！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 互联网人吐槽大会系列漫画 要来啦～](https://mp.weixin.qq.com/s/vzM5S-Zs3UDgcWUN7PhoDA)
 + [漫画 | 北上广深打工人月薪五万回老家的“注意事项”](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 尴尬，我把面试官整崩溃了～](https://mp.weixin.qq.com/s/VMOKeB1vLVMW6scrJBU2iA)

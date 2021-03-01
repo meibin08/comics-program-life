@@ -5,6 +5,16 @@
 + 用漫画解读职场风云，执笔演绎程序人生，愿吾手中之笔，能博君(卿)一笑～
 
 ### 往期漫画
+![半夜，我差点揍了十年前的自己]()
+
+> 原文首发于：
+
+<p style="text-align:center">
+<img src="https://user-images.githubusercontent.com/18324563/109438717-1e632900-7a66-11eb-880b-d03e32af6423.png" width="388" height="188"  alt="漫画 | 半夜加班回家，差点凑了出租车司机" />
+</p>
+<p style="text-align:center">
+<img src="https://user-images.githubusercontent.com/18324563/102307035-9f9a3c00-3f9e-11eb-910a-839365de42c9.png" width="388" height="188"  alt="用漫画解读前端技术，执笔演绎程序人生，愿吾手中笔，能博君(卿)一笑" />
+</p>
 
 <a href="https://github.com/meibin08/comics-program-life/issues/11">
   <img width="518" src="https://user-images.githubusercontent.com/18324563/108785836-3261e300-75ad-11eb-80c3-08d4ded64236.png" alt="漫画 | 互联网人吐槽大会系列漫画 要来啦～"/>
@@ -45,6 +55,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 半夜加班回家，差点凑了出租车司机！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 互联网人吐槽大会系列漫画 要来啦～](https://mp.weixin.qq.com/s/vzM5S-Zs3UDgcWUN7PhoDA)
 + [漫画 | 北上广深打工人月薪五万回老家的“注意事项”](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 尴尬，我把面试官整崩溃了～](https://mp.weixin.qq.com/s/VMOKeB1vLVMW6scrJBU2iA)

@@ -7,6 +7,9 @@
 ### 往期漫画
 
 <a href="https://github.com/meibin08/comics-program-life/issues/12">
+  <img src="https://user-images.githubusercontent.com/18324563/111061588-1b911b00-84df-11eb-8670-776e087addda.png" width="518"  alt="漫画 | 上班第一天，前端把后端告上县衙，还列了 5 宗罪" />
+</a>
+<a href="https://github.com/meibin08/comics-program-life/issues/13">
   <img src="https://user-images.githubusercontent.com/18324563/109438717-1e632900-7a66-11eb-880b-d03e32af6423.png" width="518"  alt="漫画 | 半夜加班回家，差点凑了出租车司机" />
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/11">
@@ -49,6 +52,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 公司前端把后端告上县衙，还列了 5 宗罪！](https://mp.weixin.qq.com/s/qILz4qRFHfriZcCB4Ldnxw)
 + [漫画 | 半夜加班回家，差点凑了干出租车司机的自己！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 互联网人吐槽大会系列漫画 要来啦～](https://mp.weixin.qq.com/s/vzM5S-Zs3UDgcWUN7PhoDA)
 + [漫画 | 北上广深打工人月薪五万回老家的“注意事项”](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)

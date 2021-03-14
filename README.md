@@ -6,10 +6,10 @@
 
 ### 往期漫画
 
-<a href="https://github.com/meibin08/comics-program-life/issues/12">
+<a href="https://github.com/meibin08/comics-program-life/issues/13">
   <img src="https://user-images.githubusercontent.com/18324563/111061588-1b911b00-84df-11eb-8670-776e087addda.png" width="518"  alt="漫画 | 上班第一天，前端把后端告上县衙，还列了 5 宗罪" />
 </a>
-<a href="https://github.com/meibin08/comics-program-life/issues/13">
+<a href="https://github.com/meibin08/comics-program-life/issues/12">
   <img src="https://user-images.githubusercontent.com/18324563/109438717-1e632900-7a66-11eb-880b-d03e32af6423.png" width="518"  alt="漫画 | 半夜加班回家，差点凑了出租车司机" />
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/11">

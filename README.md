@@ -6,6 +6,10 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/14">
+  <img src="https://user-images.githubusercontent.com/18324563/111925092-5d732000-8ae2-11eb-8c30-36ee8a6408c5.png" width="518"  alt="漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状-上" />
+</a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/13">
   <img src="https://user-images.githubusercontent.com/18324563/111061588-1b911b00-84df-11eb-8670-776e087addda.png" width="518"  alt="漫画 | 上班第一天，前端把后端告上县衙，还列了 5 宗罪" />
 </a>
@@ -52,6 +56,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(上)](https://mp.weixin.qq.com/s/KsrFh5BZUkAuSJmAtKzaaQ)
 + [漫画 | 公司前端把后端告上县衙，还列了 5 宗罪！](https://mp.weixin.qq.com/s/qILz4qRFHfriZcCB4Ldnxw)
 + [漫画 | 半夜加班回家，差点凑了干出租车司机的自己！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)
 + [漫画 | 互联网人吐槽大会系列漫画 要来啦～](https://mp.weixin.qq.com/s/vzM5S-Zs3UDgcWUN7PhoDA)

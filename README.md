@@ -1,11 +1,14 @@
 
-## 趣画职场
-
+## 程序员漫画
++ 公众号：**画漫画的程序员** ，记得关注我哦
 + 每周一篇职场相关的漫画，给你的工作带去一些欢乐，同时也让更多人了解职场（特别是程序员）的不易.
 + 用漫画解读职场风云，执笔演绎程序人生，愿吾手中之笔，能博君(卿)一笑～
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/15">
+  <img src="https://user-images.githubusercontent.com/18324563/113367417-87ec9500-938e-11eb-8d26-cb7514c65ee4.png" width="518"  alt="漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状-下" />
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/14">
   <img src="https://user-images.githubusercontent.com/18324563/111925092-5d732000-8ae2-11eb-8c30-36ee8a6408c5.png" width="518"  alt="漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状-上" />
 </a>
@@ -56,6 +59,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(下)](https://mp.weixin.qq.com/s/GegEYlp32815k6ITicGDog)
 + [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(上)](https://mp.weixin.qq.com/s/KsrFh5BZUkAuSJmAtKzaaQ)
 + [漫画 | 公司前端把后端告上县衙，还列了 5 宗罪！](https://mp.weixin.qq.com/s/qILz4qRFHfriZcCB4Ldnxw)
 + [漫画 | 半夜加班回家，差点凑了干出租车司机的自己！](https://mp.weixin.qq.com/s/zh5xYgeI7KgHParpILC8jg)

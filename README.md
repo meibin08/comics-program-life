@@ -6,6 +6,9 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/16">
+  <img src="https://user-images.githubusercontent.com/18324563/114525925-190a1880-9c79-11eb-8094-21232109271e.png" width="518"  alt="漫画 | 公司测试因提Bug不规范，锒铛入狱～" />
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/15">
   <img src="https://user-images.githubusercontent.com/18324563/113367417-87ec9500-938e-11eb-8d26-cb7514c65ee4.png" width="518"  alt="漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状-下" />
 </a>
@@ -59,6 +62,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 公司测试因提Bug不规范，锒铛入狱～](https://mp.weixin.qq.com/s/NENWcGTu55Xuc_DYUKZyzw)
 + [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(下)](https://mp.weixin.qq.com/s/GegEYlp32815k6ITicGDog)
 + [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(上)](https://mp.weixin.qq.com/s/KsrFh5BZUkAuSJmAtKzaaQ)
 + [漫画 | 公司前端把后端告上县衙，还列了 5 宗罪！](https://mp.weixin.qq.com/s/qILz4qRFHfriZcCB4Ldnxw)

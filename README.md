@@ -6,9 +6,14 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/18">
+  <img src="https://user-images.githubusercontent.com/18324563/118568479-80504680-b7aa-11eb-9f5a-74cb8a9cea8d.png" width="518"  alt="漫画 | Java是如何诞生的" />
+</a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/17">
   <img src="https://user-images.githubusercontent.com/18324563/115952018-6bb7c000-a516-11eb-9832-7fd85a920da8.png" width="518"  alt="漫画 | 从四大名著看程序员与产品经理的关系" />
 </a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/16">
   <img src="https://user-images.githubusercontent.com/18324563/114525925-190a1880-9c79-11eb-8094-21232109271e.png" width="518"  alt="漫画 | 公司测试因提Bug不规范，锒铛入狱～" />
 </a>
@@ -64,7 +69,7 @@
 ### 其他
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
-
++ [漫画 | Java之父——Java语言的诞生！](https://mp.weixin.qq.com/s/l3Tkgh9IGhQvWdEBwPUV-w)
 + [漫画 | 从西游记看产品经理和程序员的关系！](https://mp.weixin.qq.com/s/HTPPrlyBrc7pB9yEDKnKcA)
 + [漫画 | 公司测试因提Bug不规范，锒铛入狱～](https://mp.weixin.qq.com/s/NENWcGTu55Xuc_DYUKZyzw)
 + [漫画 | 程序员联名把产品经理告上县衙，并列了8大罪状(下)](https://mp.weixin.qq.com/s/GegEYlp32815k6ITicGDog)

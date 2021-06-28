@@ -6,6 +6,10 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/19">
+  <img src="https://user-images.githubusercontent.com/18324563/123592752-3a15ea80-d820-11eb-9d2f-c79fca825ad9.png" width="518"  alt="漫画 | 如何凭实力炒老板鱿鱼,并喜提N+1～" />
+</a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/18">
   <img src="https://user-images.githubusercontent.com/18324563/118568479-80504680-b7aa-11eb-9f5a-74cb8a9cea8d.png" width="518"  alt="漫画 | Java是如何诞生的" />
 </a>
@@ -70,6 +74,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 如何凭实力炒老板鱿鱼,并喜提N+1～](https://mp.weixin.qq.com/s/aSFGlar8-OCY3uA9YLL8RA)
 + [漫画 | Java之父——Java语言的诞生！](https://mp.weixin.qq.com/s/l3Tkgh9IGhQvWdEBwPUV-w)
 + [漫画 | 从西游记看产品经理和程序员的关系！](https://mp.weixin.qq.com/s/HTPPrlyBrc7pB9yEDKnKcA)
 + [漫画 | 公司测试因提Bug不规范，锒铛入狱～](https://mp.weixin.qq.com/s/NENWcGTu55Xuc_DYUKZyzw)

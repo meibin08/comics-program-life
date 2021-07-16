@@ -6,6 +6,10 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/20">
+  <img src="https://user-images.githubusercontent.com/18324563/125973022-4db6a120-2a25-4208-ae16-d765e5a255ef.png" width="518"  alt="漫画 | 为什么祖传代码被称为「屎山」？" />
+</a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/19">
   <img src="https://user-images.githubusercontent.com/18324563/123592752-3a15ea80-d820-11eb-9d2f-c79fca825ad9.png" width="518"  alt="漫画 | 如何凭实力炒老板鱿鱼,并喜提N+1～" />
 </a>

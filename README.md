@@ -78,6 +78,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 为什么祖传代码被称为「屎山」？](https://mp.weixin.qq.com/s/fa-R0mKHpBvIoiR_t_4wFA)
 + [漫画 | 如何凭实力炒老板鱿鱼,并喜提N+1～](https://mp.weixin.qq.com/s/aSFGlar8-OCY3uA9YLL8RA)
 + [漫画 | Java之父——Java语言的诞生！](https://mp.weixin.qq.com/s/l3Tkgh9IGhQvWdEBwPUV-w)
 + [漫画 | 从西游记看产品经理和程序员的关系！](https://mp.weixin.qq.com/s/HTPPrlyBrc7pB9yEDKnKcA)

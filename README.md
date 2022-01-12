@@ -6,6 +6,10 @@
 
 ### 往期漫画
 
+<a href="https://github.com/meibin08/comics-program-life/issues/23">
+  <img src="https://user-images.githubusercontent.com/18324563/149107417-5278d359-1f35-4c34-8959-63fcd60179fe.png" width="518"  alt="漫画 | 大厂程序员凡尔赛的一天……" />
+</a>
+
 <a href="https://github.com/meibin08/comics-program-life/issues/21">
   <img src="https://user-images.githubusercontent.com/18324563/127727113-71a0d382-f86d-4885-bc51-64a49b1b7e73.png" width="518"  alt="漫画 | 一个NB互联网项目的上线过程…" />
 </a>
@@ -82,6 +86,7 @@
 <br/>
 如果上面的`github`图片加载不出来，可直接点下方链接：
 
++ [漫画 | 大厂程序员凡尔赛的一天！](https://mp.weixin.qq.com/s/6t8eujs_TgSn8Nm14PS9sQ)
 + [漫画 | 一个NB互联网项目的上线过程…](https://mp.weixin.qq.com/s/I7A5lDKj84gT-BRHRi6slQ)
 + [漫画 | 为什么祖传代码被称为「屎山」？](https://mp.weixin.qq.com/s/fa-R0mKHpBvIoiR_t_4wFA)
 + [漫画 | 如何凭实力炒老板鱿鱼,并喜提N+1～](https://mp.weixin.qq.com/s/aSFGlar8-OCY3uA9YLL8RA)
